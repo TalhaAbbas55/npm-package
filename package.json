@@ -6,6 +6,9 @@
 "version": "0.1.0",
 "private": false,
 "main": "dist/index.js",
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com/@TalhaAbbas55"
+},
 "module": "dist/index.js",
 "files": [ "dist", "README.md" ],
 "repository": {
